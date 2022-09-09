@@ -1,0 +1,3 @@
+Key	schinese	tchinese	english	japanese	koreana
+测试文本	"测试文
+本123"		test123
